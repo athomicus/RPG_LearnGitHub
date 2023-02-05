@@ -1,5 +1,5 @@
 extends KinematicBody2D
-
+#comit changest Test 05/02/2023 - Ar2r
 const ACCELERATION = 20
 const FRICTION = 50
 const MAX_SPEED = 50
