@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/2D_KNIGHT__Run_006.png-e077de2d93ea1b7ff265deb505270753.stex"
+path="res://.import/L2D_KNIGHT__Run_003.png-f34c91969003fb650d99697b6256e44c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Character/CHIBI KNIGHT-PNG/CHIBI KNIGHT-PNG/02-Run_/2D_KNIGHT__Run_006.png"
-dest_files=[ "res://.import/2D_KNIGHT__Run_006.png-e077de2d93ea1b7ff265deb505270753.stex" ]
+source_file="res://Character/CHIBI KNIGHT-PNG/CHIBI KNIGHT-PNG/02-Run_Left/L2D_KNIGHT__Run_003.png"
+dest_files=[ "res://.import/L2D_KNIGHT__Run_003.png-f34c91969003fb650d99697b6256e44c.stex" ]
 
 [params]
 
